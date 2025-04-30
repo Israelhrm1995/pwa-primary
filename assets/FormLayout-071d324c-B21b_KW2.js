@@ -1,1 +1,2 @@
 var E;(function(D){D.GRID="GRID",D.FORM="FORM"})(E||(E={}));var I;(function(D){D.GRID="GRID",D.FORM="FORM"})(I||(I={}));var R;(function(D){D.ADVANCED="ADVANCED",D.PREDICTIVE="PREDICTIVE",D.LOAD_DESCRIPTION="LOAD_DESCRIPTION",D.PRELOAD="PRELOAD"})(R||(R={}));var A;(function(D){D[D.CASCADE=0]="CASCADE",D[D.SIDE_BY_SIDE=1]="SIDE_BY_SIDE"})(A||(A={}));export{E as C,A as F,R as S,I as a};
+//# sourceMappingURL=FormLayout-071d324c-B21b_KW2.js.map

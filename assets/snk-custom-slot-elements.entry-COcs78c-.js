@@ -1,2 +1,0 @@
-import{r as e,c as o,h as s,H as n}from"./index-BCuik2gT.js";const l=".sc-snk-custom-slot-elements-h{display:none}",m=class{constructor(t){e(this,t),this.snkCustomSlotElementsLoaded=o(this,"snkCustomSlotElementsLoaded",7),this.slotName="CUSTOM_SLOT_ELEMENTS"}componentDidLoad(){this.snkCustomSlotElementsLoaded.emit(this.slotName)}render(){return s(n,{slot:this.slotName,id:this.slotName,class:"custom-slot-elements-container"},s("slot",null))}};m.style=l;export{m as snk_custom_slot_elements};
-//# sourceMappingURL=snk-custom-slot-elements.entry-COcs78c-.js.map

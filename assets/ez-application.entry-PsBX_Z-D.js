@@ -1,0 +1,1 @@
+import{b as i,d as o,e as a}from"./index-DyPwdCiV.js";import"./vendor-ChHGKcPm.js";const e="",n=class{constructor(t){i(this,t),this.applicationLoaded=o(this,"applicationLoaded")}componentWillLoad(){}componentDidLoad(){this.applicationLoaded.emit(!0)}render(){return a("div",null)}};n.style=e;export{n as ez_application};

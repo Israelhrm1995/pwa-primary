@@ -1,0 +1,2 @@
+import{O as E}from"./index-CxFxc26b.js";import{R as N}from"./form-config-fetcher-e623539b-VBVHUPpx.js";class m extends N{getData(h){const O=`cfg://auth/${h}`;return new Promise((a,r)=>{this.loadResource(O).then(c=>{let s=E.stringToObject(c);s&&typeof s=="object"&&a(s)}).catch(c=>{r(c)})})}}var t;(function(e){e.INSERT="I",e.UPDATE="A",e.REMOVE="E",e.SHOW="C",e.CONFIG="F",e.CONFIG_NUMBER="N",e.CLONE="D",e.CONFIG_GRID="G"})(t||(t={}));export{t as A,m as a};
+//# sourceMappingURL=auth-fetcher-43c8d76b-DMf49abo.js.map

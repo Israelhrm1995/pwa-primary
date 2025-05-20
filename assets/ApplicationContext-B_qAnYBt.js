@@ -1,2 +1,0 @@
-class _{static getContextValue(t){return _.getCtx()[t]}static setContextValue(t,e){_.getCtx()[t]=e}static getCtx(){let t=window.___snkcore___ctx___;return t||(t={},window.___snkcore___ctx___=t),t}}export{_ as A};
-//# sourceMappingURL=ApplicationContext-B_qAnYBt.js.map

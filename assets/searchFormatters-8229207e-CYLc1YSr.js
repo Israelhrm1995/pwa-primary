@@ -1,2 +1,0 @@
-const g="<span class='card-item__highlight'>",c="</span>";function i(e){const n=new RegExp(g,"g"),t=new RegExp(c,"g"),r=String(e??"").replace(n,"").replace(t,"");return a(r)}function a(e){if(e!=null)return String(e).replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&quot;/g,'"')}export{i as a,a as r};
-//# sourceMappingURL=searchFormatters-8229207e-CYLc1YSr.js.map
